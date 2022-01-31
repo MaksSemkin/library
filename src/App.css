@@ -1,0 +1,15 @@
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+form {
+  align-items: center;
+  justify-content: center;
+}
+
+
+main {
+  min-width: 670px;
+}
